@@ -9,4 +9,4 @@ The steps for ETL is as follows:
 
 ## Resources
 - Data Source: Click [Here](https://github.com/junepwk/movies-ETL/tree/main/Resources)
-- Softward: pgAdmin 4 v5.2, Jupyter Notebook 6.3.0, Python 3.7.10
+- Software: pgAdmin 4 v5.2, Jupyter Notebook 6.3.0, Python 3.7.10
